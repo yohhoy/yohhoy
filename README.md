@@ -1,3 +1,7 @@
+### Slides
+- [yohhoy/docs](https://github.com/yohhoy/docs)
+
+
 ### Other sites activity
 
 - StackOverflow: [yohjp](https://stackoverflow.com/users/684921/yohjp) [en]
